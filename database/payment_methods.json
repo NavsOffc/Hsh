@@ -1,0 +1,8 @@
+[
+  {
+    "id": "dana",
+    "name": "DANA",
+    "type": "ewallet",
+    "instructions": "1. Buka aplikasi DANA\n2. Pilih Kirim\n3. Masukkan nomor: 081234567890\n4. Masukkan jumlah deposit\n5. Konfirmasi pembayaran"
+  }
+]
